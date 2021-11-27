@@ -1,0 +1,9 @@
+Building Trezorcoin
+
+See doc/readme-qt.rst for instructions on building Trezorcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Trezorcoin.
+
+See doc/build-*.txt for instructions on building trezorcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Trezorcoin.
